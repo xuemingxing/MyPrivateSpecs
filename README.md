@@ -1,0 +1,2 @@
+# MyPrivateSpecs
+spec仓库
